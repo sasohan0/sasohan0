@@ -1,4 +1,4 @@
-![This is Solih Ahmad Sohan]("portfolio banner.png")
+![This is Solih Ahmad Sohan](portfolio_banner.png)
 
 <h1 align="center">Hi 👋, I'm Solih Ahmad Sohan</h1>
 <h3 align="center">A Visionary 🌐 MERN stack developer from Bangladesh</h3>
