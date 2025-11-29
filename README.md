@@ -1,53 +1,73 @@
-![This is Solih Ahmad Sohan](portfolio_banner.png)
+<div align="center">
+  <img src="portfolio_banner.png" alt="Solih Ahmad Sohan Portfolio Banner" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Solih Ahmad Sohan</h1>
-<h3 align="center">A Visionary 🌐 MERN stack developer from Bangladesh</h3>
+  <h1>Hi, I'm Solih Ahmad Sohan 👋</h1>
+  <h3>AI Automation Engineer | n8n Workflows & Intelligent Agents</h3>
+  <h4>Generative AI • RAG Systems • Python & JavaScript</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasohan0&label=Profile%20views&color=0e75b6&style=flat" alt="sasohan0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasohan0" alt="sasohan0" /></a> </p>
-
-- 🔭 I’m currently working on [Waste Not](https://github.com/sasohan0/waste-not-frontend)
-
-- 🌱 I’m currently learning **Advanced JavaScript Concepts 🧠, Testing 🧪, TypeScript 📘, GraphQL 🕸️, Serverless Architecture ☁️, DevOps 🛠️, UI/UX Design Principles 🎨, Next.js ⏭️, React Native 📱**
-
-- 🤝 I’m looking for help with [Power Tools](https://github.com/sasohan0/Power-Tools)
-
-- 👨‍💻 All of my projects are available at [https://solih-ahmad-sohan.web.app/](https://solih-ahmad-sohan.web.app/)
-
-- 📝 I regularly write articles on [https://solih-ahmad-sohan.web.app/blogs](https://solih-ahmad-sohan.web.app/blogs)
-
-- 💬 Ask me about **JavaScript 👨‍💻, JSX 📝, HTML 🌐, CSS3 🎨, ESLint 🚦, Bootstrap 🥾, Tailwind CSS 🌬️, React.js ⚛️, React Router 🚏, Express.js 🚂, MongoDB 🍃, Node.js 🟩, Git 🐙**
-
-- 📫 How to reach me **solih.ahmad.sohan@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/solih-ahmad-sohan/](https://www.linkedin.com/in/solih-ahmad-sohan/)
-
-- ⚡ Fun facts **- 💠 I can solve a Rubik's cube in under 2 minutes. - 🌐 I can speak 3 languages. - 🎮 I just love gaming.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/solih-ahmad-sohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="solih-ahmad-sohan" height="30" width="40" /></a>
-<a href="https://fb.com/solihahmad.sohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solihahmad.sohan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasohan0&show_icons=true&locale=en&layout=compact" alt="sasohan0" /></p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sasohan0&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sasohan0&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sasohan0&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sasohan0&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+  <p>
+    <a href="https://linkedin.com/in/solih-ahmad-sohan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:solih.ahmad.sohan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://solih-ahmad-sohan.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sasohan0&label=Profile%20Views&color=0e75b6&style=flat" alt="sasohan0" />
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sasohan0&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 Featured Architecture: Authentic AI Agents
+> *I build self-healing, production-grade AI systems—not just wrappers.*
 
+### 🕵️‍♂️ [n8n-authentic-workflows](https://github.com/sasohan0/n8n-authentic-workflows)
+A professional repository of **Hybrid AI Agents** combining No-Code orchestration with Pro-Code engineering.
+
+| Module | What It Does | Tech Stack |
+| :--- | :--- | :--- |
+| **🎥 YouTube Agent** | **Parallel Assembly Line:** Generates script, voice, and visuals (Flux Pro) simultaneously, then renders 1080p video using a local Python engine. | `n8n` `Python` `MoviePy` `OpenAI` |
+| **📢 Omni-Social Agent** | **Generative Design:** Turns 1 URL into posts for LinkedIn, X, and Instagram. Uses Python (`Pillow`) to programmatically design Instagram slides. | `n8n` `Gemini Flash` `Pillow` `Buffer` |
+| **🚑 Self-Healing System** | **DevOps Automation:** Catches workflow crashes globally, uses an LLM to diagnose the root cause from the stack trace, and alerts me on Slack. | `n8n` `Error Trigger` `Slack Block Kit` |
+
+[**View the Repository →**](https://github.com/sasohan0/n8n-authentic-workflows)
+
+---
+
+## 🧠 Engineering Stack
+
+### **🤖 AI & Automation (Primary Focus)**
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **Orchestration** | ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white) |
+| **LLMs & Models** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) |
+| **Vector & RAG** | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FE2C55?style=flat-square) |
+
+### **💻 Full-Stack Foundation (Core Skills)**
+> *Leveraging my background as a MERN Developer to build robust AI interfaces.*
+
+| Category | Tools |
+| :--- | :--- |
+| **Backend & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Database & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sasohan0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasohan0&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 👯 Let's Connect
+I am currently open to collaborations on **Agentic Workflows**, **RAG Systems**, and **AI-Driven SaaS** projects.
+
+- **Portfolio:** [solih-ahmad-sohan.web.app](https://solih-ahmad-sohan.web.app/)
+- **LinkedIn:** [solih-ahmad-sohan](https://www.linkedin.com/in/solih-ahmad-sohan/)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
