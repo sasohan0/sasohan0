@@ -77,7 +77,7 @@ A production-grade repository of **Hybrid AI Agents** combining No-Code orchestr
 </div>
 
 ---
-### "Need to know which tools to use? Check out my curated list: Awesome AI Automation Resources. [https://github.com/sasohan0/awesome-ai-automation-resources] "
+"Need to know which tools to use? Check out my curated list: Awesome AI Automation Resources[https://github.com/sasohan0/awesome-ai-automation-resources] "
 
 ### 📬 Latest from the Newsletter
 I write daily about **building authentic AI agents** and navigating the automation market.
